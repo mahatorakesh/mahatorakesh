@@ -1,4 +1,7 @@
 Hi there 👋 I'm [Rakesh](https://mahatorakesh.github.io) checkout my portfolio to know more :)
+
+<!-- OctoCats -->
+
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
 <!-- OctoCats -->
@@ -14,6 +17,7 @@ Hi there 👋 I'm [Rakesh](https://mahatorakesh.github.io) checkout my portfolio
 
 ## ⚡ Tech Stack
 ### Language :
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -34,6 +38,10 @@ Hi there 👋 I'm [Rakesh](https://mahatorakesh.github.io) checkout my portfolio
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
+### IDEs/Editors
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
 ## 💰 Support
 <p>
 <a href='https://www.buymeacoffee.com/mahatorakesh' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Rakesh on buymecoffee' /></a>
@@ -41,9 +49,7 @@ Hi there 👋 I'm [Rakesh](https://mahatorakesh.github.io) checkout my portfolio
 
 ## 📈 Stats
 <p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahatorakesh&show_icons=true&theme=tokyonight" />
-
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahatorakesh&show_icons=true&theme=tokyonight" />
 </p>
 
 
