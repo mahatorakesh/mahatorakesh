@@ -11,7 +11,7 @@ Hi there 👋 I'm [Rakesh](https://mahatorakesh.github.io) checkout my portfolio
 - 👯 I’m looking to collaborate on **openSource**
 - 🤔 I’m looking for help with **Internship**
 - 💬 Ask me about anything i can help you with 
-- 📫 How to reach me [Twitter](https://twitter.com/rakeshmahatto) [LinkedIn](https://www.linkedin.com/in/mahatorakesh)
+- 📫 How to reach me [Twitter](https://twitter.com/rakeshmahatto)
 - 😄 Pronouns: **he/him/his**
 - ⚡ Fun fact: **Enjoy every moments** 
 
@@ -51,7 +51,3 @@ Hi there 👋 I'm [Rakesh](https://mahatorakesh.github.io) checkout my portfolio
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahatorakesh&show_icons=true&theme=default" />
 </p> -->
-
-
-
-
