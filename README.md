@@ -49,7 +49,7 @@ Hi there 👋 I'm [Rakesh](https://mahatorakesh.github.io) checkout my portfolio
 
 ## 📈 Stats
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahatorakesh&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahatorakesh&show_icons=true&theme=default" />
 </p>
 
 
