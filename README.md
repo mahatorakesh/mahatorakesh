@@ -15,6 +15,8 @@ Hi there 👋 I'm [Rakesh](https://mahatorakesh.github.io) checkout my portfolio
 - 😄 Pronouns: **he/him/his**
 - ⚡ Fun fact: **Enjoy every moments** 
 
+
+
 ## ⚡ Tech Stack
 ### Language :
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
@@ -47,7 +49,4 @@ Hi there 👋 I'm [Rakesh](https://mahatorakesh.github.io) checkout my portfolio
 <a href='https://www.buymeacoffee.com/mahatorakesh' target='_blank'><img height='36' style='border:0px;height:20px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Rakesh on buymecoffee' /></a>
 </p>
 
-<!-- ## 📈 Stats
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahatorakesh&show_icons=true&theme=default" />
-</p> -->
+
