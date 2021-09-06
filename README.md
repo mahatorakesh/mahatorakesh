@@ -11,7 +11,7 @@ Hi there 👋 I'm [Rakesh](https://mahatorakesh.github.io) checkout my portfolio
 - 👯 I’m looking to collaborate on **openSource**
 - 💬 Ask me about anything i can help you with [Support](https://github.com/mahatorakesh/Support)
 - 📫 How to reach me [Twitter](https://twitter.com/rakeshmahatto)
-- 😄 Pronouns: **he/him/his**
+- 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **Enjoy every moments** 
 
 
