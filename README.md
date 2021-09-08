@@ -6,13 +6,13 @@ Hi there 👋 I'm [Rakesh](https://mahatorakesh.github.io) checkout my portfolio
 
 <!-- OctoCats -->
 
-- 🔭 I’m currently working on **iOS Development and Web Development**
+<!-- - 🔭 I’m currently working on **iOS Development and Web Development**
 - 🌱 I’m currently learning **SwiftUI**
 - 👯 I’m looking to collaborate on **openSource**
 - 💬 Ask me about anything i can help you with [Support](https://github.com/mahatorakesh/Support)
 - 📫 How to reach me [Twitter](https://twitter.com/rakeshmahatto)
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **Enjoy every moments** 
+- ⚡ Fun fact: **Enjoy every moments**  -->
 
 
 
