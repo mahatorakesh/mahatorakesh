@@ -16,7 +16,7 @@ Hi there 👋 I'm [Rakesh](https://mahatorakesh.github.io) checkout my portfolio
 
 
 
-## ⚡ Tech Stack
+<!-- ## ⚡ Tech Stack
 ### Language :
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -43,7 +43,7 @@ Hi there 👋 I'm [Rakesh](https://mahatorakesh.github.io) checkout my portfolio
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
 
-<!-- ## 💰 Support
+ ## 💰 Support
 <p>
 <a href='https://www.buymeacoffee.com/mahatorakesh' target='_blank'><img height='36' style='border:0px;height:20px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Rakesh on buymecoffee' /></a>
 </p> -->
